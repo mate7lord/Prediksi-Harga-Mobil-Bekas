@@ -10,6 +10,18 @@ Proyek ini berfokus pada prediksi harga mobil bekas. Model regresi linear dilati
 
 Ikuti langkah-langkah yang saya buat di Panduan menjalankan aplikasi.txt
 
+## Menggunakan Aplikasi
+Aplikasi Streamlit akan terbuka di browser Anda. Anda bisa memasukkan data berikut untuk melihat prediksi harga mobil:
+1. Tahun Pembuatan: Tahun mobil diproduksi (misalnya, 2010)
+2. Jarak Tempuh: Jarak tempuh mobil dalam kilometer (misalnya, 50000)
+3. Kapasitas Silinder: Kapasitas silinder mesin mobil dalam cc (misalnya, 2000)
+4. Harga Kredit: Harga kredit mobil dalam mata uang yang relevan (misalnya, 100000000)
+5. Aplikasi akan menampilkan prediksi harga tunai mobil berdasarkan input yang Anda berikan.
+
+![Prediksi Harga Mobil Bekas](./Hasil.png)
+
+
+
 
 
 
