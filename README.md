@@ -10,19 +10,10 @@ Proyek ini berfokus pada prediksi harga mobil bekas. Model regresi linear dilati
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi prediksi harga mobil bekas di komputer Anda.
 
-### 1. Persiapan Lingkungan
-
-Pastikan Anda memiliki Python dan Streamlit terinstal di komputer Anda. Jika belum, Anda bisa menginstalnya dengan perintah berikut:
-
-```sh
-pip install streamlit scikit-learn
 
 
-' 
 
 
-### 1. Persiapan Lingkungan
 
-Pastikan Anda memiliki Python dan Streamlit terinstal di komputer Anda. Jika belum, Anda bisa menginstalnya dengan perintah berikut:
 
 
