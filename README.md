@@ -8,7 +8,7 @@ Proyek ini berfokus pada prediksi harga mobil bekas. Model regresi linear dilati
 
 ## Panduan Menjalankan Aplikasi
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi prediksi harga mobil bekas di komputer Anda.
+Ikuti langkah-langkah yang saya buat di Panduan menjalankan aplikasi.txt
 
 
 
