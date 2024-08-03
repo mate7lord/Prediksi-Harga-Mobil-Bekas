@@ -1,0 +1,26 @@
+1. Persiapan Lingkungan
+
+	Pastikan Anda memiliki Python dan Streamlit terinstal di komputer Anda. Jika belum, Anda bisa menginstalnya dengan perintah berikut:
+	pip install streamlit scikit-learn
+
+2. Pastikan Anda memiliki dua file berikut di direktori yang sama:
+
+	prediksi_harga_mobil.py (kode aplikasi Streamlit)
+	Prediksi_Harga_Mobil_Bekas.ipynb (model yang telah dilatih)
+
+3. Struktur Direktori
+
+	Pastikan struktur direktori Anda terlihat seperti ini:
+	C:\Users\matheus.davin\OneDrive\Documents\Project data science\Prediksi Harga Mobil (ini milik saya, tolong atur sesuai yang anda inginkan)
+	│
+	├── prediksi_harga_mobil.py
+	└── model.pkl
+
+4. Menjalankan Aplikasi
+
+	Buka Command Prompt dan Navigasikan ke direktori proyek Anda dengan perintah berikut:
+	cd "C:\Users\matheus.davin\OneDrive\Documents\Project data science\Prediksi Harga Mobil"
+
+5. Jalankan aplikasi Streamlit dengan perintah berikut:
+
+	streamlit run prediksi_harga_mobil.py
