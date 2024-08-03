@@ -6,12 +6,23 @@ Proyek ini bertujuan untuk memprediksi harga mobil bekas menggunakan model regre
 
 Proyek ini berfokus pada prediksi harga mobil bekas. Model regresi linear dilatih menggunakan data historis untuk memprediksi harga berdasarkan berbagai fitur seperti tahun pembuatan, jarak tempuh, kapasitas silinder, dan harga kredit.
 
-## Dataset
+## Panduan Menjalankan Aplikasi
 
-Dataset yang digunakan dalam proyek ini adalah `used_car_data_new.csv` yang berisi informasi tentang mobil bekas, termasuk harga tunai, harga kredit, tahun pembuatan, jarak tempuh, kapasitas silinder, dan lain-lain.
+Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi prediksi harga mobil bekas di komputer Anda.
 
-## Menjalankan aplikasi
-1. Buka Command Prompt dan jalankan perintah berikut untuk menginstal Streamlit dan scikit-learn 'pip install streamlit scikit-learn'
+### 1. Persiapan Lingkungan
 
+Pastikan Anda memiliki Python dan Streamlit terinstal di komputer Anda. Jika belum, Anda bisa menginstalnya dengan perintah berikut:
+
+```sh
+pip install streamlit scikit-learn
+
+
+' 
+
+
+### 1. Persiapan Lingkungan
+
+Pastikan Anda memiliki Python dan Streamlit terinstal di komputer Anda. Jika belum, Anda bisa menginstalnya dengan perintah berikut:
 
 
