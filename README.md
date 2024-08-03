@@ -9,3 +9,9 @@ Proyek ini berfokus pada prediksi harga mobil bekas. Model regresi linear dilati
 ## Dataset
 
 Dataset yang digunakan dalam proyek ini adalah `used_car_data_new.csv` yang berisi informasi tentang mobil bekas, termasuk harga tunai, harga kredit, tahun pembuatan, jarak tempuh, kapasitas silinder, dan lain-lain.
+
+## Menjalankan aplikasi
+1. Buka Command Prompt dan jalankan perintah berikut untuk menginstal Streamlit dan scikit-learn pip install streamlit scikit-learn
+
+
+
